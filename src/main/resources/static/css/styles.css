@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    text-align: left;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+#heading-2{
+    color: #007bff;
+}
+.heading {
+    color: #28a745;
+}
+#para{
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 20px;
+}
+#navbar{
+    border: 3px solid brown;
+    padding: 10px;
+    background-color: pink;
+    text-align: center;
+}
+
+#navbar a{
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+#navbar a:hover{
+    background-color: yellow;
+    color: red;
+}
